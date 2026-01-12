@@ -135,3 +135,5 @@ Boas práticas recomendadas:
 - Testes de qualidade antes da persistência
 - Monitoramento automatizado
 
+[📄 Ver o código completo do Snapshot em PySpark](https://github.com/patriciacidadesilva/Snapshot_Semanal/blob/main/Codigo_Completo_Snapshot_Semanal.py)
+
